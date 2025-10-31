@@ -1,0 +1,23 @@
+.profile-photo {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  border: 3px solid #4a90e2;
+  margin-top: 10px;
+}
+
+.name {
+  color: #4a90e2;
+  margin: 10px 0 5px;
+}
+
+.contact {
+  background-color: #eef4fb;
+  padding: 10px;
+  border-radius: 8px;
+}
+
+.contact p {
+  margin: 5px 0;
+  font-size: 14px;
+}
